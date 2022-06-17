@@ -22,11 +22,11 @@ public class Main {
         Empregado X = new Empregado();
         Scanner leitor2 = new Scanner(System.in);
         System.out.println("Digite o nome do 2° Empregado");
-        X.setNome(leitor.nextLine());
+        X.setNome(leitor2.nextLine());
         System.out.println("Digite o sobrenome do 2° Empregado");
-        X.setSobrenome(leitor.nextLine());
+        X.setSobrenome(leitor2.nextLine());
         System.out.println("Digite o salário do 2° empregado ");
-        X.setSalario(leitor.nextFloat());
+        X.setSalario(leitor2.nextFloat());
         
         System.out.println("O salário anual de " + E.getNome() + " é " + E.getSalario()* 12 + "R$.");
         System.out.println("O salário anual de " + X.getNome() + " é " + X.getSalario()* 12 + "R$.");
