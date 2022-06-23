@@ -1,0 +1,23 @@
+Calculadora8/Main.java
+ Calculadora8.Main
+Calculadora8/Calc.java
+ Calculadora8.Calc
+ Calculadora8.Calc$1
+ Calculadora8.Calc$10
+ Calculadora8.Calc$11
+ Calculadora8.Calc$12
+ Calculadora8.Calc$13
+ Calculadora8.Calc$14
+ Calculadora8.Calc$15
+ Calculadora8.Calc$16
+ Calculadora8.Calc$17
+ Calculadora8.Calc$18
+ Calculadora8.Calc$19
+ Calculadora8.Calc$2
+ Calculadora8.Calc$3
+ Calculadora8.Calc$4
+ Calculadora8.Calc$5
+ Calculadora8.Calc$6
+ Calculadora8.Calc$7
+ Calculadora8.Calc$8
+ Calculadora8.Calc$9
